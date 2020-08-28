@@ -9,7 +9,7 @@
 */
 #include <stdio.h>
 
-#define DEBUG 1 // 0 to turn off debugging
+#define DEBUG 0 // 0 to turn off debugging
 
 int main () {
 
